@@ -181,22 +181,6 @@ where R\*\_s is the optimal true risk achievable by concepts of size at most _s_
 
 ---
 
-## Citation
-
-```bibtex
-@inproceedings{lu2026apxfit,
-  title     = {When Can We Learn from Noisy Logical Data?
-               Parameterized Complexity of Approximate Concept
-               Fitting in Description Logics},
-  author    = {Lu, Chang and Zhao, Yizheng and Schmidt, Renate A.},
-  booktitle = {Proceedings of the 42nd Conference on Uncertainty
-               in Artificial Intelligence (UAI)},
-  year      = {2026}
-}
-```
-
----
-
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
